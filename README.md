@@ -3,8 +3,8 @@
 * Developed for an OOP course @ CSUF
 * I worked on the backend (developing game logic, C++).
 
-For a demo, navigate to https://amajc.github.io/hurdle-frontend/ or click the logo below:
+For a demo, navigate to https://amajc.github.io/hurdle-frontend/:
 
 <div align="center">
-  <a href="https://amajc.github.io/hurdle-frontend/" ><img src="https://raw.githubusercontent.com/AmaJC/hurdle-frontend/main/public/img/logo_192x192.png" alt="Hurdle logo" /></a>
+  <a href="https://amajc.github.io/hurdle-frontend/" ></a>
 </div> 
