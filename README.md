@@ -3,8 +3,11 @@
 * Developed for an OOP course @ CSUF
 * I worked on the backend (developing game logic, C++).
 
-For a demo, navigate to https://amajc.github.io/hurdle-frontend/:
+For a demo, navigate to https://amajc.github.io/hurdle-frontend/
 
 <div align="center">
   <a href="https://amajc.github.io/hurdle-frontend/" ></a>
-</div> 
+</div>  
+
+Jonathan Mai  
+jonathannmai@gmail.com / jmai2004@csu.fullerton.edu
