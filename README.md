@@ -1,7 +1,7 @@
-# Hurdle Backend
-The Hurdle Backend Server will track the state of the game. The backend is responsible for handling the logic that powers the game - from the selection of a random Hurdle secret word, to the verification of the validity of a submitted guess.
-
-See the [Hurdle Project Spec](https://tinyurl.com/cpsc121-s23-hurdle) for detailed instructions on the Hurdle Backend Server implementation, the API that enables the Hurdle frontend and backend to communicate, and an overview of how the data sent from the server is parsed on the frontend to update the UI.
+# wordle clone backend
+* The Hurdle Backend Server tracks the state of the game. The backend is responsible for handling the logic that powers the game - from the selection of a random Hurdle secret word, to the verification of the validity of a submitted guess. Developed in C++.
+* Developed for an OOP course @ CSUF
+* I worked on the backend (developing game logic, C++).
 
 For a demo, navigate to https://amajc.github.io/hurdle-frontend/ or click the logo below:
 
